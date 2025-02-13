@@ -7,8 +7,6 @@ install.packages("readxl")
 install.packages("tidyverse")
 install.packages("dplyr")
 install.packages("remotes")
-install.packages("rtools")
-
 
 
 #####   Load Packages    ==== 
